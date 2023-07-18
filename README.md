@@ -10,8 +10,12 @@ The Game Management and Battle Logic uses `Next.js` handling of 'API Routes';
 <u>Requirements</u>
 
 Check off and Document as Appropriate
-
 * TDD
 * TypeScript
 * Next.js
 * GraphQL
+
+<u>Specifications</u>
+
+Turn these 'reqs' into 'specs'!
+* node 16.8.0

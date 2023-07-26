@@ -12,3 +12,5 @@ The Game Management and Battle Logic uses `Next.js` handling of 'API Routes';
 
 <u>PRs</u>
 * 26/7 | Adds basic next.js example
+
+current PR: https://github.com/vercel/next.js/tree/canary/examples/api-routes 
